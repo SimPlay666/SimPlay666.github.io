@@ -1,4 +1,4 @@
-# SimPlay666.github.io
+# doomed to success.com
 <!DOCTYPE html>
 <html lang="en">
   <head>
