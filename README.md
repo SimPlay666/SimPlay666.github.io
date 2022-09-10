@@ -1,5 +1,4 @@
 # doomed to success.com
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>SIMPLAY</title>
